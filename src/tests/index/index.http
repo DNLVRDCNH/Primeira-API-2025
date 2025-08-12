@@ -1,0 +1,9 @@
+@url = https://congenial-orbit-r999xv6pv5g35j5q-8080.app.github.dev/
+GET {{url}}
+
+###
+
+POST {{url}}
+Content-Type: text/plain
+
+Melão
